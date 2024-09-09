@@ -4,12 +4,12 @@ Commandline to image generate from Midjorney on Hugface
 
 ## Usage
 
-```
+```sh
 NAME
-    main.py
+    midcli
 
 SYNOPSIS
-    main.py PROMPT <flags>
+    midcli PROMPT <flags>
 
 POSITIONAL ARGUMENTS
     PROMPT
@@ -25,4 +25,11 @@ FLAGS
 
 NOTES
     You can also use flags syntax for POSITIONAL ARGUMENTS
+
+EXAMPLE
+    midcli 'Generate running person' --style 'Photo' --filename 'person_running' --image_dir '~/Images'
+
+    # Generate 2 images in:
+    # images/person_running1.png
+    # images/person_running2.png
 ```
