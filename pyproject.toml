@@ -1,7 +1,7 @@
 [project]
 name = "midcli"
 version = "0.1.0"
-description = "Default template for PDM package"
+description = "Command line to image generate from Midjourney on Huggingface"
 authors = [
     {name = "Bruno Davi", email = "48166556+brunodavi@users.noreply.github.com"},
 ]
