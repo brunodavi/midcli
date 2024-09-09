@@ -2,7 +2,15 @@
 
 Commandline to image generate from Midjorney on Hugface
 
-## Usage
+## How to use
+
+### Installation
+
+```sh
+pip install git+https://github.com/brunodavi/midcli
+```
+
+### Usage
 
 ```sh
 NAME
