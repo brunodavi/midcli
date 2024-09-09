@@ -1,6 +1,6 @@
 # midcli
 
-Commandline to image generate from Midjorney on Hugface
+Command line to image generate from Midjourney on Huggingface
 
 ## How to use
 
