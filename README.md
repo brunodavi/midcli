@@ -4,6 +4,10 @@ Commandline to image generate from Midjorney on Hugface
 
 ## How to use
 
+### Demo
+
+![thumb_midcli2](https://github.com/user-attachments/assets/98596318-6cea-45b8-951a-b5ec749c1d75)
+
 ### Installation
 
 ```sh
